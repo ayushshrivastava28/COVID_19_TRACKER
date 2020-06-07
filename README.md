@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Clone this repo: https://github.com/ayushshrivastava28/COVID_19_TRACKER.git
+
+Project OverView: abashed-balloon.surge.sh
 
 ## Available Scripts
 
